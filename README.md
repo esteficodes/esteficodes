@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Estefanía. Argentinian based in Denmark 🙂
 
-<!--
-**esteficodes/esteficodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩🏽‍💻 I'm a Frontend Developer and Technical Writer. ✍️
+- 🔭 I’m currently working on @Technigo's coding bootcamp.
+- 🌱 I’m currently learning JavaScript, React, Node.js
+- 👯 I’m looking to collaborate on projects with a positive social impact.
+- 🤔 I’m looking for a Tech Mentor.
+- 💬 Ask me about my bootcamp experience, JavaScript, React and technical writing.
+- 📫 How to reach me: email: estefaniaquevedolusby@gmail.com /Or let's connect on <a href="https://www.linkedin.com/in/estefan%C3%ADa-quevedo-lusby-24bb5a3/">Linkedin</a>
+- ⚡ Fun fact: 
+--> My dream is to be able to do a handstand. Maybe some day.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![handstand](https://user-images.githubusercontent.com/70166033/117107667-416dca00-ad82-11eb-85a0-a3cccfc4fbda.gif)
