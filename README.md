@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on projects with a positive social impact.
 - 💬 Ask me about my bootcamp experience, JavaScript, React and technical writing.
 - 📫 How to reach me: email: estefaniaquevedolusby@gmail.com /Or let's connect on <a href="https://www.linkedin.com/in/estefan%C3%ADa-quevedo-lusby-24bb5a3/">Linkedin</a>
+- You can read some of my articles about coding by visiting <a href="https://estefaniaquevedolusby.medium.com/">my Medium</a> site.
 - ⚡ Fun fact: 
 --> My dream is to be able to do a handstand. Maybe some day.
 
