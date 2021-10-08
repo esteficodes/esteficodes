@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Estefanía. Argentinian based in Denmark 🙂
 
-- 👩🏽‍💻 I'm a Frontend Developer and Technical Writer. ✍️
+- 👩🏽‍💻 I'm a Frontend Developer and e-learning specialist. ✍️
 - 🔭 I started my coding journey as a @Technigo online bootcamper in 2021.
 - 🌱 I’m currently volunteering as a code mentor @HackYourFuture-CPH 
 - 👯 I’m looking to collaborate on projects with a positive social impact.
