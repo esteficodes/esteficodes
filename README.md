@@ -1,4 +1,6 @@
 ### Hi there 👋 I'm Estefanía. Argentinian based in Denmark 🙂
+![linkedin](https://user-images.githubusercontent.com/70166033/140058326-adb81d22-5b5e-41e0-9365-3cc7c83f5026.png)
+[2]: https://www.linkedin.com/in/estefan%C3%ADa-quevedo-lusby-24bb5a3/
 ![Visitor Count](https://profile-counter.glitch.me/{esteficodes}/count.svg)
 
 - 👩🏽‍💻 I'm a Frontend Developer and e-learning specialist. ✍️
