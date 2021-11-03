@@ -22,5 +22,5 @@
 
 
 [linkedin]: https://linkedin.com/in/estefanía-quevedo-lusby-24bb5a3/
-[medium]: https://medium.com/estefaniaquevedolusby
+[medium]: https://estefaniaquevedolusby.medium.com
 
