@@ -19,6 +19,8 @@
  <br>
 
 ![handstand](https://user-images.githubusercontent.com/70166033/117107667-416dca00-ad82-11eb-85a0-a3cccfc4fbda.gif)
+<br>
+![](https://komarev.com/ghpvc/?username=esteficodes&color=ff69b4)
 
 
 [linkedin]: https://linkedin.com/in/estefanía-quevedo-lusby-24bb5a3/
