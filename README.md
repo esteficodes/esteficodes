@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Estefanía. Frontend Dev and teacher🙂
+### Hola!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Estefanía. Frontend Dev and teacher🙂
 <br>
 
 [<img align="center" alt="esteficodes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
