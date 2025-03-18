@@ -10,7 +10,6 @@
 <li> 👩🏽‍💻Frontend Developer | Tech Writer | Cibersecurity enthusiast ✍️</li>
 <li> 🔭 Started my coding journey as a @Technigo online bootcamper in 2021.</>
 <li> 🌱 I volunteer as a code mentor @HackYourFuture-CPH. </li>
-<li> 👯 I’m looking to collaborate on projects with a positive social impact.</li>
 <li> 📫 How to reach me: email: nialusby@gmail.com /Or let's connect on <a href="https://www.linkedin.com/in/estefan%C3%ADa-quevedo-lusby-24bb5a3/">Linkedin</a> </li>
 <li> You can read some of my articles about coding by visiting <a href="https://estefaniaquevedolusby.medium.com/">my Medium</a> site.</li>
 <li> 👯 I’m looking to collaborate on projects with a positive social impact.</li>
@@ -22,6 +21,19 @@
 ![handstand](https://user-images.githubusercontent.com/70166033/117107667-416dca00-ad82-11eb-85a0-a3cccfc4fbda.gif)
 <br>
 ![](https://komarev.com/ghpvc/?username=esteficodes&color=ff69b4)
+
+## 🚀 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 
 [linkedin]: https://linkedin.com/in/estefanía-quevedo-lusby-24bb5a3/
