@@ -1,4 +1,4 @@
-### Hola!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Estefanía. Frontend Dev and writer🙂
+### Hola!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Estefanía. Frontend Dev and writer 🤓
 <br>
 
 [<img align="center" alt="esteficodes | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
